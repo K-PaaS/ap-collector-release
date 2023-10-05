@@ -1,9 +1,9 @@
-# PAAS-TA-COLLECTOR-RELEASE
+# ap-collector-release
 
 ## 1. Github Repository Download
 ```
-$ git clone https://github.com/PaaS-TA/PAAS-TA-COLLECTOR-RELEASE.git
-$ cd PAAS-TA-COLLECTOR-RELEASE
+$ git clone https://github.com/K-PaaS/ap-collector-release.git
+$ cd ap-collector-release
 ```
  
  
