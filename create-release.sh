@@ -3,7 +3,7 @@
 OLD_VERSION=<RELEASE_OLD_VERSION>
 NEW_VERSION=<RELEASE_NEW_VERSION>
 WORKING_DIR=<WORKING_DIR>
-RELEASE_NAME=paasta-collector
+RELEASE_NAME=ap-collector
 
 if [ -d ./.dev_builds ]; then
   echo "delete .dev_builds"
