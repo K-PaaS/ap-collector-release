@@ -30,4 +30,4 @@ else
   exit 1
 fi
 
-bosh create-release --force --tarball ${RELEASE_NAME}-release-${NEW_VERSION}.tgz --name ${RELEASE_NAME}-release --version ${NEW_VERSION}
+bosh create-release --force --tarball ${RELEASE_NAME}-release-${NEW_VERSION}.tgz --name ${RELEASE_NAME} --version ${NEW_VERSION}
